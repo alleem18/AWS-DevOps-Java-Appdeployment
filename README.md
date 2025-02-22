@@ -15,7 +15,7 @@
   - [P4: Package an App with AWS CodeBuild](#p4-package-an-app-with-aws-codebuild)
   - [P5: Deploy an App with AWS CodeDeploy](#p5-deploy-an-app-with-aws-codedeploy)
 - [Setup Instructions](#setup-instructions)
-- [Contact]contact)
+- [Contact](#contact)
 
 ---
 
