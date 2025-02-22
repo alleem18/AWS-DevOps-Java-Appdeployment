@@ -22,7 +22,7 @@
 ## Introduction
 This repository documents my journey in deploying a Java-based web application using AWS services. The deployment pipeline automates the software release process using AWS DevOps tools such as EC2, CodeArtifact, CodeBuild, CodeDeploy, and GitHub.
 
-![Image](https://github.com/alleem18/AWS-DevOps-Java-Appdeployment/blob/main/A6C90772-E7DD-4EF3-B46A-E8DBD5BF9B99_1_201_a.jpeg)
+![Image](https://github.com/alleem18/AWS-DevOps-Java-Appdeployment/blob/main/54100DBE-88CE-4B98-966B-F22534D5C160.jpeg)
 
 ---
 
