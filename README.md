@@ -15,7 +15,7 @@
   - [P4: Package an App with AWS CodeBuild](#p4-package-an-app-with-aws-codebuild)
   - [P5: Deploy an App with AWS CodeDeploy](#p5-deploy-an-app-with-aws-codedeploy)
 - [Setup Instructions](#setup-instructions)
-- [Contact](#contact)
+- [Contact]contact)
 
 ---
 
@@ -41,7 +41,7 @@ This repository documents my journey in deploying a Java-based web application u
 ## Project Breakdown
 
 ### P1: Set Up a Web App in the Cloud 
-- [GitHub Link](#https://github.com/alleem18/WebApp-AWS-Setup)
+- GitHub Link : https://github.com/alleem18/WebApp-AWS-Setup
 - Launched an **EC2 instance**.
 - Configured **SSH access**.
 - Set up **VSCode remote SSH** for seamless development.
@@ -50,7 +50,7 @@ This repository documents my journey in deploying a Java-based web application u
 - Edited `index.jsp` using VSCode and nano.
 
 ### P2: Connect a GitHub Repo with AWS
-- [GitHub Link](#https://github.com/alleem18/AWS-Devops-GitHub)
+- GitHub Link : https://github.com/alleem18/AWS-Devops-GitHub
 - Installed and configured **Git**.
 - Created a local **Git repository**.
 - Set up **GitHub repository** and pushed the local project.
@@ -58,14 +58,14 @@ This repository documents my journey in deploying a Java-based web application u
 - Resolved **merge conflicts** and updated files.
 
 ### P3: Store Dependencies with AWS CodeArtifact
-- [GitHub Link](#https://github.com/alleem18/P3-Dependencies-Codeartifact)
+- GitHub Link : https://github.com/alleem18/P3-Dependencies-Codeartifact
 - Created **artifact repositories** for dependency management.
 - Configured `settings.xml` for Maven to connect with **CodeArtifact**.
 - Compiled the web app using **AWS-managed dependencies**.
 - Defined **IAM policies** to secure repository access.
 
 ### P4: Package an App with AWS CodeBuild
-- [GitHub link](#https://github.com/alleem18/P4-PackageApp_with_Codebuild)
+- GitHub Link : https://github.com/alleem18/P4-PackageApp_with_Codebuild
 - Created an **S3 bucket** to store build artifacts.
 - Configured **AWS CodeBuild**:
   - Defined **Source** (GitHub repository).
@@ -77,7 +77,7 @@ This repository documents my journey in deploying a Java-based web application u
 - Successfully **executed the first build**.
 
 ### P5: Deploy an App with AWS CodeDeploy
-- [GitHub Link](#https://github.com/alleem18/P5-Deploy-App-with-CodeBuild)
+- GitHub Link : https://github.com/alleem18/P5-Deploy-App-with-CodeBuild
 - Configured **EC2 instance & VPC** for deployment.
 - Wrote **Bash scripts**:
   - `install_dependencies.sh` - Installs required software.
@@ -87,7 +87,7 @@ This repository documents my journey in deploying a Java-based web application u
 - Set up **CodeDeploy application & deployment group**.
 - Deployed **web app from S3 to EC2 using CodeDeploy**.
 - Successfully accessed deployed application via EC2 **public IPv4 address**.
-- App : [GitHub Link](#https://github.com/alleem18/AWS-Devops-App)
+- App : GitHub Link : https://github.com/alleem18/AWS-Devops-App
 
 ---
 
